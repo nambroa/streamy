@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "A truly creative description.",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "Come check it out.",
+      "id": 2
+    },
+    {
+      "title": "Third Stream",
+      "description": "Testing Stream connection.",
+      "id": 3
+    },
+    {
+      "title": "First asdasdasd",
+      "description": "Sup yall its me its your boi Asmongold",
+      "id": 4
+    },
+    {
+      "title": "Second NicoStreamsdf",
+      "description": "MAN WTF DOOD",
+      "id": 5
+    },
+    {
+      "title": "asdfasdfwwe",
+      "description": "asdfasdf",
+      "id": 6
+    },
+    {
+      "title": "asdf",
+      "description": "asdf",
+      "userId": "109167431201000314354",
+      "id": 8
+    }
+  ]
+}
